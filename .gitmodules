@@ -13,3 +13,9 @@
 [submodule "vendor/color-theme-wombat"]
 	path = vendor/color-theme-wombat
 	url = http://github.com/demizer/color-theme-wombat.git
+[submodule "vendor/auto-complete"]
+	path = vendor/auto-complete
+	url = http://github.com/m2ym/auto-complete.git
+[submodule "vendor/ac-slime"]
+	path = vendor/ac-slime
+	url = http://github.com/purcell/ac-slime.git

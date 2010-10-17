@@ -14,5 +14,6 @@
 (load "paul/textmate")
 (load "paul/linum")
 (load "paul/elein")
+(load "paul/auto-complete")
 
 (color-theme-wombat)
