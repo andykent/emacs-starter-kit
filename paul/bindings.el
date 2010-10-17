@@ -1,6 +1,11 @@
 ;; map meta to command key for mac
 ; (setq ns-command-modifier 'meta)
 
+(setq mac-option-key-is-meta nil)
+(setq mac-command-key-is-meta t)
+(setq mac-command-modifier 'meta)
+(setq mac-option-modifier nil)
+    
 (global-set-key [f7] 'ns-toggle-fullscreen)
 
 ;; steve yegges's suggested keybindings
