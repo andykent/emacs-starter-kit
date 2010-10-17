@@ -1,5 +1,5 @@
 ;; map meta to command key for mac
-(setq ns-command-modifier 'meta)
+; (setq ns-command-modifier 'meta)
 
 (global-set-key [f7] 'ns-toggle-fullscreen)
 
